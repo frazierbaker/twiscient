@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/ash
 # Installing spark on Frazier's Cluster
 ################################################
 
