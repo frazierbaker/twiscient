@@ -1,5 +1,5 @@
 #!/bin/bash
-# Installing spark on Frazier's Avatar Cluster
+# Installing spark on Frazier's Cluster
 ################################################
 
 # Run on Alpine 3.6
