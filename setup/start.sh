@@ -9,5 +9,5 @@ fi
 
 
 if [ "$role" = "WORKER" ]; then
-  /spark/sbin/start-slave.sh spark://master:7077 -p 7078
+  /spark/sbin/start-slave.sh spark://$MASTER:7077 -p 7078
 fi
