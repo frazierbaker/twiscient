@@ -25,3 +25,6 @@ If you have additional machines, great!  Repeat the process, only this time, run
  where the X's in `MASTER=X.X.X.X` are replaced by the IP address of your master machine.  If you don't have additional machines, that's okay, too!  You can still run pyspark on just the master node, though obviously it can only use the resources on the master machine until you set it up with another machine.
  
  If all you wanted to do was use Apache Spark, then everything should be set up and ready to go for you.  If you're interested in downloading twitter data, check out the data directory.  I have a download script in there that you might find helpful.  If you are interested in the Stanford CoreNLP library, check out the analysis scripts.  I also highly recommend you refer to [their documentation](https://stanfordnlp.github.io/CoreNLP/), as I only used a small portion of their library.
+ 
+### Want to Know More About Twiscient?
+If you want to know more about the project I submitted for my class, you can check out the PDFs in this repo.  They include my presentation and my report for the class.
